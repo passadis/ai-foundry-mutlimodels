@@ -87,4 +87,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Architecture
 
-![architecture-mm](https://github.com/user-attachments/assets/1884860f-d058-43d2-8af1-7fa4caaa856d)
+![foundry multimodel](https://github.com/user-attachments/assets/991c274a-68d1-40e4-95ec-9ac4213e75fc)
