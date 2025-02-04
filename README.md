@@ -79,12 +79,12 @@ pip install -r requirements.txt
 python run.py
 ```
 
-```
+
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
+## Architecture
 
-[MIT](https://choosealicense.com/licenses/mit/)
+![architecture-mm](https://github.com/user-attachments/assets/1884860f-d058-43d2-8af1-7fa4caaa856d)
