@@ -1,0 +1,13 @@
+azure-core
+azure-ai-resources
+azure-ai-projects
+azure-ai-inference
+azure-identity
+azure-keyvault-secrets
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv==1.0.0
+openai>=1.6.1,<2.0.0
+python-multipart==0.0.6
